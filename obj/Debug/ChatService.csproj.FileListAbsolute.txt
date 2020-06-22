@@ -1,86 +1,170 @@
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\ChatService.dll.config
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\ChatService.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\ChatService.pdb
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\csc.exe
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\csc.exe.config
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\csc.rsp
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\csi.exe
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\csi.exe.config
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\csi.rsp
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.AppContext.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Console.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.IO.Compression.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Net.Http.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Net.Sockets.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.ValueTuple.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\vbc.exe
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\vbc.exe.config
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\vbc.rsp
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\VBCSCompiler.exe
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\Antlr3.Runtime.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\Newtonsoft.Json.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Helpers.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Mvc.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Optimization.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Razor.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.WebPages.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.WebPages.Razor.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\WebGrease.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Helpers.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Mvc.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Optimization.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.Razor.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.WebPages.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\System.Web.WebPages.Razor.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\Newtonsoft.Json.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\Antlr3.Runtime.pdb
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\pt-br\System.Web.Helpers.resources.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\pt-br\System.Web.Optimization.resources.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\pt-br\System.Web.Razor.resources.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\pt-br\System.Web.WebPages.resources.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\obj\Debug\ChatService.csprojAssemblyReference.cache
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\obj\Debug\ChatService.csproj.CoreCompileInputs.cache
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\obj\Debug\ChatService.csproj.CopyComplete
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\obj\Debug\ChatService.dll
-C:\Users\Pedro Sousa\Desktop\Escola\TLP\c#\ChatService\obj\Debug\ChatService.pdb
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/ChatService.dll.config
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/ChatService.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/ChatService.pdb
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/csc.exe
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/csc.exe.config
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/csc.rsp
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/csi.exe
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/csi.exe.config
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/csi.rsp
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.AppContext.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Console.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Globalization.Calendars.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.IO.Compression.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.IO.Compression.ZipFile.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Net.Http.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Net.Sockets.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Threading.Tasks.Extensions.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.ValueTuple.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/vbc.exe
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/vbc.exe.config
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/vbc.rsp
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/VBCSCompiler.exe
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/Antlr3.Runtime.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/Newtonsoft.Json.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Helpers.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Mvc.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Optimization.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Razor.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.WebPages.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.WebPages.Razor.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/WebGrease.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Helpers.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Mvc.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Optimization.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.Razor.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.WebPages.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/System.Web.WebPages.Razor.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/Newtonsoft.Json.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/Antlr3.Runtime.pdb
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/pt-br/System.Web.Helpers.resources.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/pt-br/System.Web.Mvc.resources.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/pt-br/System.Web.Optimization.resources.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/pt-br/System.Web.Razor.resources.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/pt-br/System.Web.WebPages.resources.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/pt-br/System.Web.WebPages.Deployment.resources.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/bin/pt-br/System.Web.WebPages.Razor.resources.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/obj/Debug/ChatService.csprojAssemblyReference.cache
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/obj/Debug/ChatService.csproj.CoreCompileInputs.cache
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/obj/Debug/ChatService.csproj.CopyComplete
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/obj/Debug/ChatService.dll
+C:/Users/Pedro Sousa/Desktop/Escola/TLP/c#/ChatService/obj/Debug/ChatService.pdb
+/home/dev/Lab/csharp/WebService/bin/ChatService.dll
+/home/dev/Lab/csharp/WebService/bin/ChatService.pdb
+/home/dev/Lab/csharp/WebService/bin/roslyn/csc.exe
+/home/dev/Lab/csharp/WebService/bin/roslyn/csc.exe.config
+/home/dev/Lab/csharp/WebService/bin/roslyn/csc.rsp
+/home/dev/Lab/csharp/WebService/bin/roslyn/csi.exe
+/home/dev/Lab/csharp/WebService/bin/roslyn/csi.exe.config
+/home/dev/Lab/csharp/WebService/bin/roslyn/csi.rsp
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.CodeAnalysis.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.CSharp.Core.targets
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.Managed.Core.targets
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/home/dev/Lab/csharp/WebService/bin/roslyn/Microsoft.Win32.Primitives.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.AppContext.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Collections.Immutable.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Console.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Diagnostics.StackTrace.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Globalization.Calendars.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.IO.Compression.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.IO.Compression.ZipFile.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.IO.FileSystem.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Net.Http.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Net.Sockets.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Reflection.Metadata.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Text.Encoding.CodePages.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.ValueTuple.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Xml.ReaderWriter.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Xml.XmlDocument.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Xml.XPath.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/System.Xml.XPath.XDocument.dll
+/home/dev/Lab/csharp/WebService/bin/roslyn/vbc.exe
+/home/dev/Lab/csharp/WebService/bin/roslyn/vbc.exe.config
+/home/dev/Lab/csharp/WebService/bin/roslyn/vbc.rsp
+/home/dev/Lab/csharp/WebService/bin/roslyn/VBCSCompiler.exe
+/home/dev/Lab/csharp/WebService/bin/roslyn/VBCSCompiler.exe.config
+/home/dev/Lab/csharp/WebService/bin/Antlr3.Runtime.dll
+/home/dev/Lab/csharp/WebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/home/dev/Lab/csharp/WebService/bin/Microsoft.Web.Infrastructure.dll
+/home/dev/Lab/csharp/WebService/bin/Newtonsoft.Json.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.Helpers.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.Mvc.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.Optimization.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.Razor.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.WebPages.Deployment.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.WebPages.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.WebPages.Razor.dll
+/home/dev/Lab/csharp/WebService/bin/WebGrease.dll
+/home/dev/Lab/csharp/WebService/bin/System.Web.Helpers.xml
+/home/dev/Lab/csharp/WebService/bin/System.Web.Mvc.xml
+/home/dev/Lab/csharp/WebService/bin/System.Web.Razor.xml
+/home/dev/Lab/csharp/WebService/bin/System.Web.WebPages.xml
+/home/dev/Lab/csharp/WebService/bin/System.Web.WebPages.Deployment.xml
+/home/dev/Lab/csharp/WebService/bin/System.Web.WebPages.Razor.xml
+/home/dev/Lab/csharp/WebService/bin/Newtonsoft.Json.xml
+/home/dev/Lab/csharp/WebService/bin/Antlr3.Runtime.pdb
+/home/dev/Lab/csharp/WebService/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/home/dev/Lab/csharp/WebService/bin/pt-br/System.Web.Helpers.resources.dll
+/home/dev/Lab/csharp/WebService/bin/pt-br/System.Web.Mvc.resources.dll
+/home/dev/Lab/csharp/WebService/bin/pt-br/System.Web.Optimization.resources.dll
+/home/dev/Lab/csharp/WebService/bin/pt-br/System.Web.Razor.resources.dll
+/home/dev/Lab/csharp/WebService/bin/pt-br/System.Web.WebPages.resources.dll
+/home/dev/Lab/csharp/WebService/bin/pt-br/System.Web.WebPages.Deployment.resources.dll
+/home/dev/Lab/csharp/WebService/bin/pt-br/System.Web.WebPages.Razor.resources.dll
+/home/dev/Lab/csharp/WebService/obj/Debug/ChatService.csprojAssemblyReference.cache
+/home/dev/Lab/csharp/WebService/obj/Debug/ChatService.csproj.CoreCompileInputs.cache
+/home/dev/Lab/csharp/WebService/obj/Debug/ChatService.csproj.CopyComplete
+/home/dev/Lab/csharp/WebService/obj/Debug/ChatService.dll
+/home/dev/Lab/csharp/WebService/obj/Debug/ChatService.pdb

@@ -26,5 +26,11 @@ namespace ChatService.Controllers
 
             return View();
         }
+        public ActionResult Admin()
+        {
+            ViewBag.Message = "Your Admin page.";
+
+            return View();
+        }
     }
 }
