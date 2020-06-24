@@ -1,6 +1,8 @@
 /obj/*
 /obj/Debug/
+/obj/Debug/*
 /obj/
+/bin/*
 /bin/
 /.vs/
 /packages/
