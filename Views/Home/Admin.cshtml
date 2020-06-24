@@ -5,7 +5,9 @@
 <h3>@ViewBag.Message</h3>
 
 <p>Use this area to provide additional information.</p>
-@Html.RenderPartial("/Views/Shared/_AdminChat.cshtml")
+@{
+    Html.RenderPartial("/Views/Shared/_AdminChat.cshtml");
+}
 
 
 
