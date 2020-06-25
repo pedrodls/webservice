@@ -1,5 +1,4 @@
-﻿
-<style>
+﻿<style>
 
     div.panel-primary {
         margin-right: 50px;
@@ -24,9 +23,24 @@
     }
 
     div.chatMessages {
-        border: 1px solid #ff0000;
         min-height: 300px;
         margin-bottom: 10px;
+    }
+
+    .user-sms {
+        margin-top: 15px;
+        background-color: #74b9ff;
+        padding: 5px;
+        word-wrap: break-word;
+        max-width: 90%
+    }
+
+    .admin-sms {
+        margin-top: 10px;
+        background-color: #b2bec3;
+        padding: 5px;
+        word-wrap: break-word;
+        max-width: 90%;
     }
 </style>
 
@@ -39,8 +53,19 @@
 
         <div class=" panel-body collapse" id="chat">
             <div class="">
-                <div class=" chatMessages">
-                    Bem-vindo
+                <div class="chatMessages">
+                    <div class="col-md-12">
+                        <p class="user-sms pull-left">
+                            Olá como vai?
+
+                        </p>
+                    </div>
+
+                    <div class="col-md-12">
+                        <p class="admin-sms pull-right">
+                            Olá como posso ajudar?
+                        </p>
+                    </div>
                 </div>
 
                 <div class="messageSend">
