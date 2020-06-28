@@ -2,13 +2,27 @@
 
 var btnSbt = $("#send");
 
-btnSbt.on('click', function () {
+btnSbt.on('click', iniciar);
 
+$("#message").on('keypress', function (e){
+
+    if (e.keyCode == 13) {
+        iniciar();
+
+        return false;
+
+    }
+
+});
+
+function iniciar() {
     var obj = { text: $("#message").val() };
 
     addObj(obj);
 
-});
+    $("#message").val("");
+
+}
 
 function addObj(obj) {
 
