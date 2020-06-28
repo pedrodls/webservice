@@ -7,11 +7,11 @@
         position: absolute;
         right: 0;
         bottom: 0;
-        transition-duration: .1s;
+
     }
 
     div.panel-body {
-        min-height: 400px;
+        min-height: 200px;
     }
 
     div.panel-heading {
@@ -23,7 +23,8 @@
     }
 
     div.chatMessages {
-        min-height: 300px;
+        overflow-y:auto;
+        height: 250px;
         margin-bottom: 10px;
     }
 
@@ -48,7 +49,7 @@
     <div class="panel panel-primary">
 
         <div class="panel-heading" data-toggle="collapse" data-target="#chat">
-            <i class="fa fa-comment"></i> Clique aqui
+            <i class="glyphicon glyphicon-comment"></i> Clique aqui
         </div>
 
         <div class=" panel-body collapse" id="chat">
@@ -66,16 +67,17 @@
                             Olá como posso ajudar?
                         </p>
                     </div>
+                                       
                 </div>
 
                 <div class="messageSend">
-                    <form class="form">
+                    <form class="form" >
                         <div class="form-inline">
 
                             <div class="row">
 
-                                <textarea class="form-control" placeholder="Message" required></textarea>
-                                <input type="submit" class="form-control btn btn-primary" value="Enviar">
+                                <textarea class="form-control" id="message" placeholder="Message" required></textarea>
+                                <button class="form-control btn btn-primary" id="send" type="button">Enviar</button>
 
                             </div>
 
